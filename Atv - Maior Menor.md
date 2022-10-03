@@ -1,39 +1,32 @@
-INICIO
+INICIO ALGORITIMO
 
 DECLARAÇAO:
-num1 <- decimal
-num2 <- decimal
-num3 <- decimal
+num1  (inteiro);
+num2  (inteiro);
+num3  (inteiro);
 
-ESCREVA "Digite dois valores iremos mostrar o maior e o menor deles"
-LEIA num1 
-LEIA num2
+ESCREVA ("Digite dois valores iremos mostrar o maior e o menor deles");
+LEIA (num1); 
+LEIA (num2);
 
-SE num1 <- num2
+ENQUANTO (num1 < num2 ENTAO ESCREVA "o segundo numero é maior que o segundo");
+FIM-ENQUANTO
 
-  ESCREVA (num1 "E menor que " num2)
+ENQUANTO (num2 < num1 ENTAO ESCREVA "o primeiro numero é maior que o segundo");
+FIM-ENQUANTO
 
-SENAO num2 <- num1 
+ESCREVA ("Digite mais um valor");
+LEIA (num3);
 
-  ESCREVA (num2 "E menor que " num2)
-  
+SE (num3 < num2,num1);
+  ESCREVA ("o terceiro numero é menor que os dois ultimos");
+
+SENAO (num3 > num2,num1);
+  ESCREVA ("o terceiro numero é maior que os dois ultimos");
+
+SENAO
+  ESCREVA ("o ultimo numero não é nem maior nem menor que os dois ultimos);
+
 FIM-SE
 
-ESCREVA "Digite mais um numero"
-LEIA num3
-
-SE num3 <- num2,num1
-ESCREVA "numero 3 é menor que os dois ultimos"
-
-FIM-SE
-
-SE num3 -> num1,num2
-ESCREVA "o numero 3 é o maior
-"
-FIM-SE
-
-SENAO ESCREVA "o terceiro numero não é nem menos nem maior que os dois ultimos
-
-FIM-SENAO
-
-FIM
+FIM ALGORITIMO
