@@ -10,12 +10,24 @@ namespace aaaaaaaaaaaaaaaaaaaaaa
     {
         static void Main(string[] args)
         {
-            int num = 20;
-            int num2 = 10;
-            int total;
-            total = num + num2;
-            Console.WriteLine("morra");
-            Console.WriteLine(total);
+            int a;
+            double b;
+            string nome;
+            string sobrenome;
+
+            a = 10;
+            b = 23.4;
+
+            Console.WriteLine("qual seu nome:");
+            nome = Console.ReadLine();
+            Console.WriteLine("qual seu sobrenome:");
+            sobrenome = Console.ReadLine();
+
+            Console.WriteLine("escrever na tela");
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine(nome+" "+sobrenome);
+
             Console.ReadKey();
         }
     }
