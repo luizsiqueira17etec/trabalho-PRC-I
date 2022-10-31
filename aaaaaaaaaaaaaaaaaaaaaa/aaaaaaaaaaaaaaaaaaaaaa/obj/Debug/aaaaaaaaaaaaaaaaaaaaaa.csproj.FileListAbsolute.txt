@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Desktop\aaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaa\bin\Debug\aaaaaaaaaaaaaaaaaaaaaa.exe.config
+C:\Users\Tecnico\Desktop\aaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaa\bin\Debug\aaaaaaaaaaaaaaaaaaaaaa.exe
+C:\Users\Tecnico\Desktop\aaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaa\bin\Debug\aaaaaaaaaaaaaaaaaaaaaa.pdb
+C:\Users\Tecnico\Desktop\aaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaaaaaaa.csprojAssemblyReference.cache
+C:\Users\Tecnico\Desktop\aaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\aaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaaaaaaa.exe
+C:\Users\Tecnico\Desktop\aaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaaaaaaa.pdb
